@@ -1,0 +1,17 @@
+Los datos derivados de este repositorio se distribuyen bajo la licencia
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Eres libre de:
+  - Compartir: copiar y redistribuir el material en cualquier medio o formato.
+  - Adaptar: transformar y construir a partir del material para
+    cualquier propósito.
+
+Bajo la siguiente condición:
+  - Atribución: debes dar crédito de manera adecuada, proporcionar un enlace a
+    la licencia e indicar si se han realizado cambios.
+
+Texto legal completo: https://creativecommons.org/licenses/by/4.0/legalcode.es
+
+EXCEPCIÓN: El grafo viario (data/geo/grafo_peatonal.graphml.gz) y cualquier capa
+derivada de OpenStreetMap se rigen por la Open Database License (ODbL).
+Ver LICENSE-OSM-DERIVED.md.

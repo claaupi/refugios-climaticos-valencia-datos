@@ -1,0 +1,5 @@
+variable,peso_igual,peso_pca,carga_pc1,pca_adecuado,pc1_varianza_exp,conclusion
+pct_65mas_norm,0.25,0.1005,-0.1874,False,0.437,Igual ponderación correcta: PCA inadecuado
+renta_pc_norm,0.25,0.229,0.4271,False,0.437,Igual ponderación correcta: PCA inadecuado
+suhi_ref_norm,0.25,0.3474,0.6478,False,0.437,Igual ponderación correcta: PCA inadecuado
+ndvi_ref_norm,0.25,0.323,0.6023,False,0.437,Igual ponderación correcta: PCA inadecuado
